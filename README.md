@@ -5,7 +5,7 @@
 
 A responsive personal portfolio for **Shaswata Barua**, a Computer Science and Engineering student at BGC Trust University Bangladesh. The site brings together selected software and AI projects, robotics achievements, academic background, competitive programming, and research interests.
 
-**Live portfolio:** [shaswatabarua.github.io](https://shaswatabarua.github.io)  
+**Live portfolio:** [shaswatabarua.github.io](https://shaswatabarua-portfolio-v1.vercel.app/)  
 **Contact:** [shaswatabarua190@gmail.com](mailto:shaswatabarua190@gmail.com)
 
 ---
