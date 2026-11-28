@@ -1,6 +1,6 @@
 # Shaswata Barua | Portfolio
 
-[![GitHub Pages](https://img.shields.io/badge/website-GitHub%20Pages-222?logo=github)](https://shaswatabarua.github.io)
+[![GitHub Pages](https://img.shields.io/badge/website-GitHub%20Pages-222?logo=github)](https://shaswatabarua-portfolio-v1.vercel.app/)
 [![Built with HTML, CSS and JavaScript](https://img.shields.io/badge/built%20with-HTML%20%7C%20CSS%20%7C%20JavaScript-2563eb)](#technology)
 
 A responsive personal portfolio for **Shaswata Barua**, a Computer Science and Engineering student at BGC Trust University Bangladesh. The site brings together selected software and AI projects, robotics achievements, academic background, competitive programming, and research interests.
